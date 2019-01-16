@@ -1,0 +1,5 @@
+bad row	51093
+good row	25568510
+invalid row	39
+good row - more than 4	128500
+more than 4	2

@@ -1,0 +1,44 @@
+###################################
+#
+# Course Work Helper
+# Rio Tweets Analysis
+#
+# Created by Ivaylo Shalev
+# i.s.shalev@se16.qmul.ac.uk
+# Created on: 28/10/2016
+#
+###################################
+
+hadoop-moonshot fs -ls /data/olympictweets2016rio
+hadoop-moonshot fs -tail /data/olympictweets2016rio
+
+ant clean dist
+
+hadoop-moonshot jar dist/RioTweetsWorker.jar RioTweetsWorker /data/olympictweets2016rio out 2> logs/hadoop_log_moon.log
+hadoop-local jar dist/RioTweetsWorker.jar RioTweetsWorker /homes/iss30/projects/data/olympictweets2016rio.txt out 2> logs/hadoop_log_moon.log
+
+hadoop-moonshot fs -getmerge out out/part-r-00000_01.txt
+
+
+# general stats of the input data
+bad row		    51 093
+good row	25 568 549
+more than 4	   128 502
+
+# more detailed stats
+bad row			  51093 # less than 4 delimiters - rubbish
+good row	       25568510 # good row - all is ok.
+invalid row		     39 # row with 4 delimiters, but without valid epoch_time, tweetId or device.
+good row - more than 4	 128500 # row with more than 4 delimiters, but with valid epoch_time, tweetId and device.
+				# The tweet message contains delimiter.
+more than 4		      2 # more than 4 delimiters
+
+A2:
+Total Tweet Messages length: 2817785678
+Total Number of Tweet Messages: 25697010
+Average Length of Tweet Messages: 109
+
+
+
+
+

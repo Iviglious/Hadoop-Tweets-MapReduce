@@ -1,0 +1,753 @@
+country_id	country_full_name	country_name	country_iso_2	country_iso_3
+1	Afghanistan	afghanistan	af	afg
+2	Aland Islands	alandislands	ax	ala
+3	Aland Islands	aland	ax	ala
+4	Albania	albania	al	alb
+5	Algeria	algeria	dz	dza
+6	American Samoa	americansamoa	as	asm
+7	Andorra	andorra	ad	and
+8	Angola	angola	ao	ago
+9	Anguilla	anguilla	ai	aia
+10	Antarctica	antarctica	aq	ata
+11	Antigua and Barbuda	antiguaandbarbuda	ag	atg
+12	Antigua and Barbuda	antigua	ag	atg
+13	Antigua and Barbuda	barbuda	ag	atg
+14	Argentina	argentina	ar	arg
+15	Armenia	armenia	am	arm
+16	Aruba	aruba	aw	abw
+17	Australia	australia	au	aus
+18	Austria	austria	at	aut
+19	Azerbaijan	azerbaijan	az	aze
+20	Bahamas	bahamas	bs	bhs
+21	Bahrain	bahrain	bh	bhr
+22	Bangladesh	bangladesh	bd	bgd
+23	Barbados	barbados	bb	brb
+24	Belarus	belarus	by	blr
+25	Belgium	belgium	be	bel
+26	Belize	belize	bz	blz
+27	Benin	benin	bj	ben
+28	Bermuda	bermuda	bm	bmu
+29	Bhutan	bhutan	bt	btn
+30	Bolivia	bolivia	bo	bol
+31	Bosnia and Herzegovina	bosniaandherzegovina	ba	bih
+32	Bosnia and Herzegovina	bosnia	ba	bih
+33	Bosnia and Herzegovina	herzegovina	ba	bih
+34	Botswana	botswana	bw	bwa
+35	Bouvet Island	bouvetisland	bv	bvt
+36	Bouvet Island	bouvet	bv	bvt
+37	Brazil	brazil	br	bra
+38	British Virgin Islands	britishvirginislands	vg	vgb
+39	British Indian Ocean Territory	britishindianoceanterritory	io	iot
+40	Brunei	bruneidarussalam	bn	brn
+41	Brunei	brunei	bn	brn
+42	Brunei	darussalam	bn	brn
+43	Bulgaria	bulgaria	bg	bgr
+44	Bulgaria	bulgaria	bg	bul
+45	Burkina Faso	burkinafaso	bf	bfa
+46	Burundi	burundi	bi	bdi
+47	Cambodia	cambodia	kh	khm
+48	Cameroon	cameroon	cm	cmr
+49	Canada	canada	ca	can
+50	Cape Verde	capeverde	cv	cpv
+51	Cayman Islands	caymanislands	ky	cym
+52	Central African Republic	centralafricanrepublic	cf	caf
+53	Chad	chad	td	tcd
+54	Chile	chile	cl	chl
+55	China	china	cn	chn
+56	Hong Kong (China)	hongkong	hk	hkg
+57	Macao (China)	macao	mo	mac
+58	Christmas Island	christmasisland	cx	cxr
+59	Cocos Islands	cocosislands	cc	cck
+60	Colombia	colombia	co	col
+61	Comoros	comoros	km	com
+62	Congo	congo	cg	cog
+63	Congo	brazzaville	cg	cog
+64	DR Congo	democraticrepublicofcongo	cd	cod
+65	DR Congo	drcongo	cd	cod
+66	Cook Islands	cookislands	ck	cok
+67	Costa Rica	costarica	cr	cri
+68	Côte d'Ivoire	côted'ivoire	ci	civ
+69	Côte d'Ivoire	cotedivoire	ci	civ
+70	Côte d'Ivoire	ivoire	ci	civ
+71	Côte d'Ivoire	cote	ci	civ
+72	Croatia	croatia	hr	hrv
+73	Cuba	cuba	cu	cub
+74	Cyprus	cyprus	cy	cyp
+75	Czech Republic	czechrepublic	cz	cze
+76	Czech Republic	czech	cz	cze
+77	Denmark	denmark	dk	dnk
+78	Djibouti	djibouti	dj	dji
+79	Dominica	dominica	dm	dma
+80	Dominican Republic	dominicanrepublic	do	dom
+81	Ecuador	ecuador	ec	ecu
+82	Egypt	egypt	eg	egy
+83	El Salvador	elsalvador	sv	slv
+84	Equatorial Guinea	equatorialguinea	gq	gnq
+85	Eritrea	eritrea	er	eri
+86	Estonia	estonia	ee	est
+87	Ethiopia	ethiopia	et	eth
+88	Falkland Islands	falklandislands	fk	flk
+89	Faroe Islands	faroeislands	fo	fro
+90	Faroe Islands	faroe	fo	fro
+91	Fiji	fiji	fj	fji
+92	Finland	finland	fi	fin
+93	France	france	fr	fra
+94	French Guiana	frenchguiana	gf	guf
+95	French Polynesia	frenchpolynesia	pf	pyf
+96	French Southern Territories	frenchsouthernterritories	tf	atf
+97	Gabon	gabon	ga	gab
+98	Gambia	gambia	gm	gmb
+99	Georgia	georgia	ge	geo
+100	Germany	germany	de	deu
+101	Ghana	ghana	gh	gha
+102	Gibraltar	gibraltar	gi	gib
+103	Greece	greece	gr	grc
+104	Greenland	greenland	gl	grl
+105	Grenada	grenada	gd	grd
+106	Guadeloupe	guadeloupe	gp	glp
+107	Guam	guam	gu	gum
+108	Guatemala	guatemala	gt	gtm
+109	Guernsey	guernsey	gg	ggy
+110	Guinea	guinea	gn	gin
+111	Guinea-Bissau	guinea-bissau	gw	gnb
+112	Guinea-Bissau	guineabissau	gw	gnb
+113	Guyana	guyana	gy	guy
+114	Haiti	haiti	ht	hti
+115	Heard Island and Mcdonald Islands	heardislandandmcdonaldislands	hm	hmd
+116	Vatican City	holysee	va	vat
+117	Vatican City	vatican	va	vat
+118	Honduras	honduras	hn	hnd
+119	Hungary	hungary	hu	hun
+120	Iceland	iceland	is	isl
+121	India	india	in	ind
+122	Indonesia	indonesia	id	idn
+123	Iran	iran	ir	irn
+124	Iraq	iraq	iq	irq
+125	Ireland	ireland	ie	irl
+126	Isle of Man	isleofman	im	imn
+127	Israel	israel	il	isr
+128	Italy	italy	it	ita
+129	Jamaica	jamaica	jm	jam
+130	Japan	japan	jp	jpn
+131	Jersey	jersey	je	jey
+132	Jordan	jordan	jo	jor
+133	Kazakhstan	kazakhstan	kz	kaz
+134	Kenya	kenya	ke	ken
+135	Kiribati	kiribati	ki	kir
+136	DPR Korea	democraticpeoplesrepublicofkorea	kp	prk
+137	Republic of Korea	korea	kr	kor
+138	Republic of Korea	republicofkorea	kr	kor
+139	Kuwait	kuwait	kw	kwt
+140	Kyrgyzstan	kyrgyzstan	kg	kgz
+141	Laos	laopdr	la	lao
+142	Latvia	latvia	lv	lva
+143	Lebanon	lebanon	lb	lbn
+144	Lesotho	lesotho	ls	lso
+145	Liberia	liberia	lr	lbr
+146	Libya	libya	ly	lby
+147	Liechtenstein	liechtenstein	li	lie
+148	Lithuania	lithuania	lt	ltu
+149	Luxembourg	luxembourg	lu	lux
+150	Macedonia	macedonia	mk	mkd
+151	Madagascar	madagascar	mg	mdg
+152	Malawi	malawi	mw	mwi
+153	Malaysia	malaysia	my	mys
+154	Maldives	maldives	mv	mdv
+155	Mali	mali	ml	mli
+156	Malta	malta	mt	mlt
+157	Marshall Islands	marshallislands	mh	mhl
+158	Martinique	martinique	mq	mtq
+159	Mauritania	mauritania	mr	mrt
+160	Mauritius	mauritius	mu	mus
+161	Mayotte	mayotte	yt	myt
+162	Mexico	mexico	mx	mex
+163	Micronesia (FS)	micronesia	fm	fsm
+164	Moldova	moldova	md	mda
+165	Monaco	monaco	mc	mco
+166	Mongolia	mongolia	mn	mng
+167	Montenegro	montenegro	me	mne
+168	Montserrat	montserrat	ms	msr
+169	Morocco	morocco	ma	mar
+170	Mozambique	mozambique	mz	moz
+171	Myanmar	myanmar	mm	mmr
+172	Namibia	namibia	na	nam
+173	Nauru	nauru	nr	nru
+174	Nepal	nepal	np	npl
+175	Netherlands	netherlands	nl	nld
+176	Netherlands Antilles	netherlandsantilles	an	ant
+177	Netherlands Antilles	antilles	an	ant
+178	New Caledonia	newcaledonia	nc	ncl
+179	New Zealand	newzealand	nz	nzl
+180	Nicaragua	nicaragua	ni	nic
+181	Niger	niger	ne	ner
+182	Nigeria	nigeria	ng	nga
+183	Niue	niue	nu	niu
+184	Norfolk Island	norfolkisland	nf	nfk
+185	Northern Mariana Islands	northernmarianaislands	mp	mnp
+186	Northern Mariana Islands	northernmariana	mp	mnp
+187	Norway	norway	no	nor
+188	Oman	oman	om	omn
+189	Pakistan	pakistan	pk	pak
+190	Palau	palau	pw	plw
+191	Palestinian Territory, Occupied	palestinianterritory	ps	pse
+192	Palestinian Territory, Occupied	palestin	ps	pse
+193	Panama	panama	pa	pan
+194	Papua New Guinea	papuanewguinea	pg	png
+195	Papua New Guinea	papua	pg	png
+196	Papua New Guinea	guinea	pg	png
+197	Paraguay	paraguay	py	pry
+198	Peru	peru	pe	per
+199	Philippines	philippines	ph	phl
+200	Pitcairn Islands	pitcairn	pn	pcn
+201	Poland	poland	pl	pol
+202	Portugal	portugal	pt	prt
+203	Puerto Rico	puertorico	pr	pri
+204	Qatar	qatar	qa	qat
+205	Réunion	réunion	re	reu
+206	Romania	romania	ro	rou
+207	Russian Federation	russianfederation	ru	rus
+208	Rwanda	rwanda	rw	rwa
+209	Saint Barthélemy	saint-barthélemy	bl	blm
+210	Saint Helena	sainthelena	sh	shn
+211	Saint Kitts and Nevis	saintkittsandnevis	kn	kna
+212	Saint Lucia	saintlucia	lc	lca
+213	Saint Martin	saint-martin	mf	maf
+214	Saint Martin	saintmartin	mf	maf
+215	Saint Pierre and Miquelon	saintpierreandmiquelon	pm	spm
+216	Saint Pierre and Miquelon	saintpierre	pm	spm
+217	Saint Pierre and Miquelon	miquelon	pm	spm
+218	Saint Vincent and Grenadines	saintvincentandgrenadines	vc	vct
+219	Saint Vincent and Grenadines	saintvincent	vc	vct
+220	Saint Vincent and Grenadines	grenadines	vc	vct
+221	Samoa	samoa	ws	wsm
+222	San Marino	sanmarino	sm	smr
+223	Sao Tome and Principe	saotomeandprincipe	st	stp
+224	Sao Tome and Principe	saotome	st	stp
+225	Saudi Arabia	saudiarabia	sa	sau
+226	Senegal	senegal	sn	sen
+227	Serbia	serbia	rs	srb
+228	Seychelles	seychelles	sc	syc
+229	Sierra Leone	sierraleone	sl	sle
+230	Singapore	singapore	sg	sgp
+231	Slovakia	slovakia	sk	svk
+232	Slovenia	slovenia	si	svn
+233	Solomon Islands	solomonislands	sb	slb
+234	Somalia	somalia	so	som
+235	South Africa	southafrica	za	zaf
+236	South Georgia and the South Sandwich Islands	southgeorgiaandthesouthsandwichislands	gs	sgs
+237	South Georgia and the South Sandwich Islands	southgeorgia	gs	sgs
+238	South Sudan	southsudan	ss	ssd
+239	Spain	spain	es	esp
+240	Sri Lanka	srilanka	lk	lka
+241	Sudan	sudan	sd	sdn
+242	Suriname	suriname	sr	sur
+243	Svalbard	svalbardandjanmayenislands	sj	sjm
+244	Svalbard	svalbard	sj	sjm
+245	Swaziland	swaziland	sz	swz
+246	Sweden	sweden	se	swe
+247	Switzerland	switzerland	ch	che
+248	Syria	syrianarabrepublic	sy	syr
+249	Taiwan (ROC)	taiwan	tw	twn
+250	Tajikistan	tajikistan	tj	tjk
+251	Tanzania	tanzania	tz	tza
+252	Thailand	thailand	th	tha
+253	Timor-Leste	timor-leste	tl	tls
+254	Timor-Leste	timor	tl	tls
+255	Togo	togo	tg	tgo
+256	Tokelau	tokelau	tk	tkl
+257	Tonga	tonga	to	ton
+258	Trinidad and Tobago	trinidadandtobago	tt	tto
+259	Tunisia	tunisia	tn	tun
+260	Turkey	turkey	tr	tur
+261	Turkmenistan	turkmenistan	tm	tkm
+262	Turks and Caicos Islands	turksandcaicosislands	tc	tca
+263	Turks and Caicos Islands	turks	tc	tca
+264	Turks and Caicos Islands	caicos	tc	tca
+265	Tuvalu	tuvalu	tv	tuv
+266	Uganda	uganda	ug	uga
+267	Ukraine	ukraine	ua	ukr
+268	United Arab Emirates	unitedarabemirates	ae	are
+269	Great Britain	unitedkingdom	gb	gbr
+270	Great Britain	britain	uk	gbr
+271	United States	unitedstatesofamerica	us	usa
+272	US Minor Outlying Islands	unitedstatesminoroutlyingislands	um	umi
+273	Uruguay	uruguay	uy	ury
+274	Uzbekistan	uzbekistan	uz	uzb
+275	Vanuatu	vanuatu	vu	vut
+276	Venezuela	venezuela	ve	ven
+277	Vietnam	vietnam	vn	vnm
+278	US Virgin Islands	virginislands	vi	vir
+279	Wallis and Futuna Islands	wallisandfutunaislands	wf	wlf
+280	Western Sahara	westernsahara	eh	esh
+281	Yemen	yemen	ye	yem
+282	Zambia	zambia	zm	zmb
+283	Zimbabwe	zimbabwe	zw	zwe
+1001	Afghanistan	afghanestan		
+1002	Afghanistan	افغانستان		
+1003	Albania	shqipëria		
+1004	Algeria	dzayer		
+1005	Algeria	ⴷⵣⴰⵢⴻⵔ		
+1006	Algeria	al-jazā'ir		
+1007	Algeria	الجزائر		
+1008	American Samoa	amerikasāmoa		
+1009	American Samoa	americansamoa		
+1010	Andorra	andorra		
+1011	Angola	angola		
+1012	Anguilla	anguilla		
+1013	Antigua and Barbuda	antiguaandbarbuda		
+1014	Argentina	argentina		
+1015	Armenia	hayastán		
+1016	Armenia	հայաստան		
+1017	Aruba	aruba		
+1018	Aruba	aruba		
+1019	Australia	australia		
+1020	Austria	österreich		
+1021	Azerbaijan	azərbaycan		
+1022	The Bahamas	thebahamas		
+1023	Bahrain	al-baḥrayn		
+1024	Bahrain	البحرين		
+1025	Bangladesh	bangladesh		
+1026	Bangladesh	বাংলাদেশ		
+1027	Barbados	barbados		
+1028	Belarus	bielaruś		
+1029	Belarus	беларусь		
+1030	Belarus	belarus		
+1031	Belarus	беларусь		
+1032	Belgium	belgië		
+1033	Belgium	belgique		
+1034	Belgium	belgien		
+1035	Belize	belize		
+1036	Benin	bénin		
+1037	Bermuda	bermuda		
+1038	Bhutan	drukyul		
+1039	Bhutan	འབྲུག་ཡུལ		
+1040	Bolivia	bolivia		
+1041	Bolivia	buliwya		
+1042	Bolivia	wuliwya		
+1043	Bolivia	volívia		
+1044	Bosnia and Herzegovina	bosnaihercegovina		
+1045	Bosnia and Herzegovina	боснаихерцеговина		
+1046	Botswana	botswana		
+1047	Brazil	brasil		
+1048	British Virgin Islands	britishvirginislands		
+1049	Brunei	brunei		
+1050	Brunei	بروني		
+1051	Bulgaria	bulgariyaorbălgarija		
+1052	Bulgaria	българия		
+1053	Burkina Faso	burkinafaso		
+1054	Burundi	burundi		
+1055	Cambodia	kampuchea		
+1056	Cambodia	កម្ពុជា		
+1057	Cameroon	cameroun		
+1058	Cameroon	cameroon		
+1059	Canada	canada		
+1060	Cape Verde	caboverde		
+1061	Cayman Islands	caymanislands		
+1062	Central African Republic	républiquecentrafricaine		
+1063	Central African Republic	ködörösêsetîbêafrîka		
+1064	Chad	tchad		
+1065	Chad	tšād		
+1066	Chad	تشاد		
+1067	Chile	chile		
+1068	China	zhōngguó(zhōnghuárénmíngònghéguó)		
+1069	China	中国(中华人民共和国)		
+1070	Christmas Island	christmasisland		
+1071	Cocos Islands	cocosislands		
+1072	Colombia	colombia		
+1073	Comoros	komori		
+1074	Comoros	juzural-qamar		
+1075	Comoros	جزرالقمر		
+1076	Comoros	comores		
+1077	Cook Islands	cookislands		
+1078	Costa Rica	costarica		
+1079	Côte d'Ivoire	ivorycoast		
+1080	Croatia	hrvatska		
+1081	Cuba	cuba		
+1082	Curaçao	curaçao		
+1083	Curaçao	kòrsou		
+1084	Curaçao	curaçao		
+1085	Cyprus	kypros		
+1086	Cyprus	κύπρος		
+1087	Cyprus	kıbrıs		
+1088	Czech Republic	českárepublika		
+1089	Czech Republic	česko		
+1090	DR Congo	républiquedémocratiqueducongo		
+1091	DR Congo	congo		
+1092	Denmark	danmark		
+1093	Djibouti	jībūtī		
+1094	Djibouti	جيبوتي		
+1095	Djibouti	djibouti		
+1096	Dominica	dominica		
+1097	Dominican Republic	repúblicadominicana		
+1098	East Timor	timorlorosa'e		
+1099	East Timor	timor-leste		
+1100	Ecuador	ecuador		
+1101	Egypt	misrormasr		
+1102	Egypt	مصر		
+1103	El Salvador	elsalvador		
+1104	Equatorial Guinea	guineaecuatorial		
+1105	Eritrea	iritriya		
+1106	Eritrea	إرتريا		
+1107	Eritrea	ertra		
+1108	Eritrea	ኤርትራ		
+1109	Estonia	eesti		
+1110	Ethiopia	ityop'ia		
+1111	Ethiopia	ኢትዮጵያ		
+1112	Falkland Islands	falklandislands		
+1113	Faroe Islands	føroyar		
+1114	Faroe Islands	færøerne		
+1115	Fiji	fiji		
+1116	Fiji	viti		
+1117	Fiji	फ़िजी		
+1118	Finland	suomi		
+1119	Finland	finland		
+1120	France	france		
+1121	French Guiana	guyane		
+1122	French Polynesia	polynésiefrançaise		
+1123	Gabon	républiquegabonaise		
+1124	The Gambia	thegambia		
+1125	Georgia	sak'art'velo		
+1126	Georgia	საქართველო		
+1127	Germany	deutschland		
+1128	Ghana	ghana		
+1129	Gibraltar	gibraltar		
+1130	Greece	hellas		
+1131	Greece	ellada		
+1132	Greece	ελλάς		
+1133	Greece	ελλάδα		
+1134	Greenland	kalaallitnunaat		
+1135	Greenland	grønland		
+1136	Grenada	grenada		
+1137	Guadeloupe	guadeloupe		
+1138	Guam	guåhån		
+1139	Guatemala	guatemala		
+1140	Guernsey	guernsey		
+1141	Guinea	guinée		
+1142	Guinea	gine		
+1143	Guinea	gine		
+1144	Guinea-Bissau	guiné-bissau		
+1145	Guyana	guyana		
+1146	Haiti	haïti		
+1147	Haiti	ayiti		
+1148	Honduras	honduras		
+1149	Hong Kong (China)	hongkong		
+1150	Hong Kong (China)	heunggong		
+1151	Hong Kong (China)	香港		
+1152	Hungary	magyarország		
+1153	Iceland	ísland		
+1154	India	bharôt		
+1155	India	ভাৰত		
+1156	India	bharôt		
+1157	India	ভারত		
+1158	India	india		
+1159	India	bhārat		
+1160	India	ભારત		
+1161	India	bhārat		
+1162	India	भारत		
+1163	India	bhārata		
+1164	India	ಭಾರತ		
+1165	India	bhārat		
+1166	India	भारत		
+1167	India	bhāratam		
+1168	India	ഭാരതം		
+1169	India	bhārat		
+1170	India	भारत		
+1171	India	bhārat		
+1172	India	भारत		
+1173	India	bharôtô		
+1174	India	ଭାରତ		
+1175	India	bhārat		
+1176	India	ਭਾਰਤ		
+1177	India	bhāratam		
+1178	India	भारतम्		
+1179	India	bārata		
+1180	India	பாரதம்		
+1181	India	bhāratadēsam		
+1182	India	భారతదేశం		
+1183	Indonesia	indonesia		
+1184	Iran	īrān		
+1185	Iran	ایران		
+1186	Iraq	al-'iraq		
+1187	Iraq	العراق		
+1188	Iraq	îraq		
+1189	Ireland	éire		
+1190	Ireland	ireland		
+1191	Isle of Man	isleofman		
+1192	Isle of Man	ellanvannin		
+1193	Israel	yisra'el		
+1194	Israel	ישראל		
+1195	Israel	israʼiyl		
+1196	Israel	إسرائيل		
+1197	Italy	italia		
+1198	Jamaica	jamaica		
+1199	Japan	nihon		
+1200	Japan	nippon		
+1201	Japan	日本		
+1202	Jersey	jersey		
+1203	Jersey	jersey		
+1204	Jersey	jèrri		
+1205	Jordan	al-’urdun		
+1206	Jordan	الأردن		
+1207	Kazakhstan	qazaqstan		
+1208	Kazakhstan	қазақстан		
+1209	Kazakhstan	قازاقستان		
+1210	Kazakhstan	kazakhstán		
+1211	Kazakhstan	казахстан		
+1212	Kenya	kenya		
+1213	Kiribati	kiribati		
+1214	Kosovo	kosova		
+1215	Kosovo	косово		
+1216	Kuwait	dawlatul-kuwayt		
+1217	Kuwait	دولةالكويت		
+1218	Kuwait	il-ikwet		
+1219	Kuwait	الكويت		
+1220	Kyrgyzstan	kyrgyzstan		
+1221	Kyrgyzstan	кыргызстан		
+1222	Kyrgyzstan	kirgizija		
+1223	Kyrgyzstan	киргизия		
+1224	Laos	lao		
+1225	Laos	ປະເທດລາວ		
+1226	Latvia	latvija		
+1227	Lebanon	lubnān		
+1228	Lebanon	لبنان		
+1229	Lesotho	lesotho		
+1230	Liberia	liberia		
+1231	Libya	libya		
+1232	Libya	ⵍⵉⴱⵢⴰ		
+1233	Libya	lībiyā		
+1234	Libya	ليبيا		
+1235	Liechtenstein	liechtenstein		
+1236	Lithuania	lietuva		
+1237	Luxembourg	lëtzebuerg		
+1238	Luxembourg	luxemburg		
+1239	Luxembourg	luxembourg		
+1240	Macedonia	makedonija		
+1241	Macedonia	македонија		
+1242	Madagascar	madagasikara		
+1243	Madagascar	madagascar		
+1244	Malawi	malawi		
+1245	Malaysia	malaysia		
+1246	Malaysia	mǎláixīyà		
+1247	Malaysia	马来西亚		
+1248	Malaysia	malēṣiyā		
+1249	Malaysia	மலேசியா		
+1250	Maldives	dhivehiraajje		
+1251	Maldives	ދިވެހިރާއްޖެ		
+1252	Mali	mali		
+1253	Mali	mali		
+1254	Malta	malta		
+1255	Marshall Islands	aorōkinm̧ajeļ		
+1256	Martinique	martinique		
+1257	Mauritania	muritan/agawec		
+1258	Mauritania	ⵎⵓⵔⵉⵜⴰⵏ/ⴰⴳⴰⵡⵛ		
+1259	Mauritania	mūrītānyā		
+1260	Mauritania	موريتانيا		
+1261	Mauritius	maurice		
+1262	Mayotte	mayotte		
+1263	Mexico	méxico		
+1264	Mexico	mēxihco		
+1265	Micronesia (FS)	micronesia		
+1266	Moldova	moldova		
+1267	Monaco	monaco		
+1268	Mongolia	mongoluls		
+1269	Mongolia	монголулс		
+1270	Mongolia	ᠮᠤᠩᠭᠤᠯ		
+1271	Mongolia	ᠤᠯᠤᠰ		
+1272	Montenegro	crnagora		
+1273	Montenegro	црнагора		
+1274	Montserrat	montserrat		
+1275	Morocco	amerruk/elmeɣrib		
+1276	Morocco	ⴰⵎⵔⵔⵓⴽ/ⵍⵎⵖⵔⵉⴱ		
+1277	Morocco	al-maɣréb		
+1278	Morocco	المغرب		
+1279	Mozambique	moçambique		
+1280	Myanmar	myanma		
+1281	Nagorno-Karabakh	arts'akhihanrapetut'yun		
+1282	Nagorno-Karabakh	արցախիհանրապետություն		
+1283	Namibia	namibia		
+1284	Nauru	nauru		
+1285	Nauru	naoero		
+1286	Nepal	nepāl		
+1287	Nepal	नेपाल		
+1288	Netherlands	nederland		
+1289	Netherlands	nederlân		
+1290	New Caledonia	nouvelle-calédonie		
+1291	New Zealand	newzealand		
+1292	New Zealand	aotearoa		
+1293	Nicaragua	nicaragua		
+1294	Niger	niger		
+1295	Nigeria	nigeria		
+1296	Niue	niuē		
+1297	Niue	niue		
+1298	Norfolk Island	norfolkisland		
+1299	DPR Korea	chosŏnascalledinnk		
+1300	DPR Korea	조선/朝鮮		
+1301	DPR Korea	bukchosŏn		
+1302	DPR Korea	북조선		
+1303	Northern Cyprus	kuzeykıbrıs		
+1304	Northern Mariana Islands	northernmarianaislands		
+1305	Norway	norge		
+1306	Norway	noreg		
+1307	Oman	‘umān		
+1308	Oman	عُمان		
+1309	Pakistan	pākistān		
+1310	Pakistan	پاکستان		
+1311	Palau	belau		
+1312	Panama	panamá		
+1313	Papua New Guinea	papuanewguinea		
+1314	Papua New Guinea	papuaniugini		
+1315	Papua New Guinea	papuaniugini		
+1316	Paraguay	paraguay		
+1317	Paraguay	paraguái		
+1318	Peru	perú		
+1319	Peru	piruw		
+1320	Philippines	pilipinas		
+1321	Philippines	pinas		
+1322	Pitcairn Islands	pitcairnislands		
+1323	Poland	polska		
+1324	Portugal	portugal		
+1325	Puerto Rico	puertorico		
+1326	Qatar	qaṭar		
+1327	Qatar	قطر		
+1328	Congo	républiqueducongo		
+1329	Réunion	réunion		
+1330	Romania	românia		
+1331	Russian Federation	rossiya		
+1332	Russian Federation	rossiâ		
+1333	Russian Federation	россия		
+1334	Rwanda	rwanda		
+1335	Sahrawi Arab Democratic Republic	sahrawi		
+1336	Saint Barthélemy	saintbarthélemy		
+1337	Saint Helena	sainthelena		
+1338	Saint Kitts and Nevis	saintkittsandnevis		
+1339	Saint Martin	saint-martin		
+1340	Saint Lucia	saintlucia		
+1341	Saint Pierre and Miquelon	saint-pierreetmiquelon		
+1342	Saint Vincent and Grenadines	saintvincentandthegrenadines		
+1343	Samoa	samoa		
+1344	San Marino	sanmarino		
+1345	São Tomé and Príncipe	sãotoméepríncipe		
+1346	Saudi Arabia	al-mamlakaal-‘arabiyyahassa‘ūdiyyah		
+1347	Saudi Arabia	المملكةالعربيةالسعودية		
+1348	Senegal	sénégal		
+1349	Serbia	srbija		
+1350	Serbia	србија		
+1351	Seychelles	sesel		
+1352	Seychelles	seychelles		
+1353	Seychelles	seychelles		
+1354	Sierra Leone	sierraleone		
+1355	Singapore	singapura		
+1356	Singapore	singapore		
+1357	Singapore	xīnjiāpō		
+1358	Singapore	新加坡		
+1359	Singapore	singapur		
+1360	Singapore	சிங்கப்பூர்		
+1361	Sint Maarten	sintmaarten		
+1362	Sint Maarten	sintmaarten		
+1363	Slovakia	slovensko		
+1364	Slovenia	slovenija		
+1365	Solomon Islands	solomonislands		
+1366	Solomon Islands	solomonaelan		
+1367	Somalia	soomaaliya		
+1368	Somalia	aş-şūmāl		
+1369	Somalia	الصومال		
+1370	South Africa	southafrica		
+1371	South Africa	suid-afrika		
+1372	South Africa	iningizimuafrika		
+1373	South Africa	umzantsiafrika		
+1374	South Africa	afrika-borwa		
+1375	South Africa	afrikaborwa		
+1376	South Africa	aforikaborwa		
+1377	South Africa	afurikatshipembe		
+1378	South Africa	afrikadzonga		
+1379	South Africa	iningizimuafrika		
+1380	South Africa	isewulaafrika		
+1381	Republic of Korea	hangukascalledinsk		
+1382	Republic of Korea	한국/韓國		
+1383	Republic of Korea	namhan		
+1384	Republic of Korea	남한		
+1385	South Sudan	southsudan		
+1386	Spain	españa		
+1387	Spain	espanya		
+1388	Spain	espainia		
+1389	Spain	espanha		
+1390	Sri Lanka	srilankā		
+1391	Sri Lanka	ශ්‍රීලංකාව		
+1392	Sri Lanka	இலங்கை		
+1393	Sudan	as-sudan		
+1394	Sudan	السودان		
+1395	Suriname	suriname		
+1396	Svalbard	svalbard		
+1397	Swaziland	umbusoweswatini 		
+1398	Swaziland	kangwane		
+1399	Swaziland	eswatini		
+1400	Sweden	sverige		
+1401	Switzerland	schweiz		
+1402	Switzerland	suisse		
+1403	Switzerland	svizzera		
+1404	Switzerland	svizra		
+1405	Syria	suriyah		
+1406	Syria	سورية		
+1407	Taiwan (ROC)	zhōnghuámínguóortáiwān		
+1408	Taiwan (ROC)	中華民國or臺灣/台灣		
+1409	Tajikistan	tojikistan		
+1410	Tajikistan	тоҷикистон		
+1411	Tanzania	tanzania		
+1412	Thailand	mueangthai		
+1413	Thailand	prathetthai		
+1414	Thailand	ratcha-anachakthai		
+1415	Thailand	เมืองไทย,ประเทศไทย,ราชอาณาจักรไทย		
+1416	Togo	togo		
+1417	Tokelau	tokelau		
+1418	Tonga	tonga		
+1419	Transnistria	transnistria		
+1420	Trinidad and Tobago	trinidadandtobago		
+1421	Tunisia	tunes		
+1422	Tunisia	ⵜⵓⵏⵙ		
+1423	Tunisia	tūns		
+1424	Tunisia	تونس		
+1425	Turkey	türkiye		
+1426	Turkmenistan	türkmenistan		
+1427	Turks and Caicos Islands	turksandcaicosislands		
+1428	Tuvalu	tuvalu		
+1429	Uganda	uganda		
+1430	Ukraine	ukraїna		
+1431	Ukraine	україна		
+1432	United Arab Emirates	al-’imāratal-‘arabiyyahal-muttaḥidah		
+1433	United Arab Emirates	الإماراتالعربيّةالمتّحدة		
+1434	Great Britain	unitedkingdomorbritain		
+1435	Great Britain	ydeyrnasunedig		
+1436	Great Britain	unititkinrick		
+1437	Great Britain	rìoghachdaonaichte		
+1438	Great Britain	ríochtaontaithe		
+1439	Great Britain	anrywvanethunys		
+1440	United States	unitedstates		
+1441	United States	estadosunidos		
+1442	United States	états-unis		
+1443	United States	amelika-hui-pu-'ia		
+1444	United States	america		
+1445	US Virgin Islands	virginislands		
+1446	Uruguay	uruguay		
+1447	Uzbekistan	o‘zbekiston		
+1448	Uzbekistan	ўзбекистон		
+1449	Vanuatu	vanuatu		
+1450	Vatican City	ecivitatevaticana		
+1451	Venezuela	venezuela		
+1452	Vietnam	việtnam		
+1453	Wallis and Futuna Islands	wallis-et-futuna		
+1454	Yemen	al-yaman		
+1455	Yemen	اليمن		
+1456	Zambia	zambia		
+1457	Zimbabwe	zimbabwe		
+1458	Åland Islands	åland		
+1459	Åland Islands	ahvenanmaa		
+2001	Refugee Olympic Team	refugees		
+2002	Refugee Olympic Team	refugee		
+2003	Refugee Olympic Team	refugeeolympic		
+2004	Germany	alemania		
+2005	Australia	aussie		
+2006	Russian Federation	russia		
+2007	Russian Federation	russie		
+2008	Russian Federation	russland		
+2009	Russian Federation	rusia		
+2010	Great Britain	england	en	eng

@@ -1,0 +1,253 @@
+Algeria	3189
+American Samoa	158
+Andorra	7783
+Anguilla	585
+Antigua and Barbuda	199
+Argentina	363033
+Armenia	7486
+Aruba	121
+Austria	11546
+Azerbaijan	4083
+Bahamas	1443
+Bahrain	9021
+Bangladesh	170
+Belgium	32958
+Belize	241
+Bosnia and Herzegovina	738
+Botswana	1454
+Brunei	934
+Bulgaria	2550
+Burkina Faso	74
+Burundi	3438
+Cape Verde	293
+Cayman Islands	46
+Central African Republic	169
+Chile	4423
+China	147381
+Christmas Island	71
+Cocos Islands	29
+Costa Rica	597
+Croatia	2530
+Cuba	21199
+Curaçao	1
+Czech Republic	7690
+Ecuador	24446
+Egypt	24016
+El Salvador	371
+Estonia	1896
+Ethiopia	13345
+Falkland Islands	3
+Faroe Islands	21
+France	165074
+French Guiana	40
+Gabon	746
+Gambia	180
+Germany	10092
+Ghana	7072
+Greece	8316
+Guadeloupe	365
+Guatemala	905
+Guinea	166
+Guinea-Bissau	63
+Guyana	370
+Haiti	1344
+Hong Kong (China)	3870
+India	174467
+Iraq	9678
+Ireland	28174
+Italy	219957
+Kiribati	807
+Kosovo	88
+Kuwait	1363
+Laos	306
+Latvia	446
+Lebanon	1034
+Libya	852
+Liechtenstein	143
+Lithuania	11547
+Macao (China)	1748
+Macedonia	382
+Malawi	165
+Malaysia	23191
+Maldives	965
+Mali	847
+Malta	213
+Martinique	249
+Mauritania	54
+Mauritius	113
+Mayotte	20
+Mexico	190169
+Monaco	350
+Montserrat	80
+Myanmar	545
+Namibia	1101
+Nauru	263
+New Zealand	28072
+Nicaragua	379
+Niger	694
+Nigeria	17337
+Niue	22
+Northern Mariana Islands	425
+Oman	880
+Pakistan	2045
+Palau	211
+Philippines	2058
+Qatar	5241
+Refugee Olympic Team	49266
+Republic of Korea	34746
+Romania	6924
+Rwanda	889
+Réunion	119
+Saint Barthélemy	347
+Saint Lucia	249
+Saint Pierre and Miquelon	102
+Saint Vincent and Grenadines	91
+Samoa	315
+Sao Tome and Principe	28
+Senegal	3949
+Seychelles	71
+Sierra Leone	314
+Slovenia	341
+Solomon Islands	17
+South Africa	2877
+South Georgia and the South Sandwich Islands	814
+Spain	394759
+Sri Lanka	928
+Sudan	1413
+Svalbard	20
+Swaziland	75
+Switzerland	1211
+Taiwan (ROC)	330
+Thailand	40304
+Timor-Leste	93
+Togo	226
+Tokelau	18
+Tonga	8708
+Tunisia	7914
+Turkmenistan	142
+Tuvalu	1469
+US Virgin Islands	40
+Ukraine	11912
+United Arab Emirates	26
+United States	870261
+Vatican City	265
+Venezuela	114036
+Zimbabwe	1415
+Afghanistan	1645
+Aland Islands	110
+Albania	720
+Angola	846
+Antarctica	27
+Australia	116476
+Barbados	572
+Belarus	3885
+Benin	445
+Bermuda	474
+Bhutan	191
+Bolivia	2125
+Brazil	816313
+British Indian Ocean Territory	2346
+British Virgin Islands	31
+Cambodia	132
+Cameroon	6493
+Canada	230042
+Chad	169
+Colombia	138564
+Comoros	152
+Congo	115
+Cook Islands	154
+Cyprus	1247
+Côte d'Ivoire	10375
+DPR Korea	1738
+DR Congo	800
+Denmark	1338
+Djibouti	488
+Dominica	160
+Dominican Republic	7369
+East Timor	12
+Equatorial Guinea	36
+Eritrea	1060
+Fiji	8218
+Finland	2073
+French Polynesia	16
+French Southern Territories	9
+Georgia	2945
+Gibraltar	40
+Great Britain	326513
+Greenland	9
+Grenada	1828
+Guam	210
+Guernsey	61
+Heard Island and Mcdonald Islands	39
+Honduras	12590
+Hungary	12961
+Iceland	362
+Indonesia	4950
+Iran	5129
+Isle of Man	51
+Israel	12101
+Jamaica	111245
+Japan	124851
+Jersey	527
+Jordan	18054
+Kazakhstan	5267
+Kenya	54440
+Kyrgyzstan	881
+Lesotho	191
+Liberia	289
+Luxembourg	647
+Madagascar	95
+Marshall Islands	216
+Micronesia (FS)	350
+Moldova	545
+Mongolia	1579
+Montenegro	6014
+Morocco	2464
+Mozambique	258
+Nepal	1366
+Netherlands	67075
+Netherlands Antilles	485
+New Caledonia	31
+Norfolk Island	4
+Norway	3766
+Palestinian Territory, Occupied	98
+Panama	10020
+Papua New Guinea	342
+Paraguay	7607
+Peru	7568
+Pitcairn Islands	3
+Poland	40863
+Portugal	3997
+Puerto Rico	10545
+Russian Federation	88057
+Sahrawi Arab Democratic Republic	6
+Saint Helena	31
+Saint Kitts and Nevis	7
+Saint Martin	6
+San Marino	163
+Saudi Arabia	9016
+Serbia	117488
+Singapore	3259
+Slovakia	1698
+Somalia	1065
+South Sudan	985
+Suriname	399
+Sweden	40626
+Syria	662
+Tajikistan	317
+Tanzania	199
+The Bahamas	88
+The Gambia	36
+Trinidad and Tobago	7517
+Turkey	39072
+Turks and Caicos Islands	23
+US Minor Outlying Islands	13
+Uganda	3520
+Uruguay	1018
+Uzbekistan	5921
+Vanuatu	66
+Vietnam	589
+Wallis and Futuna Islands	3
+Western Sahara	210
+Yemen	526
+Zambia	135

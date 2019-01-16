@@ -1,0 +1,4 @@
+Results:	
+Total Tweet Messages length: 2817785678
+Total Number of Tweet Messages: 25697010
+Average Length of Tweet Messages: 109
